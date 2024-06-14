@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Node buiild
+dist/
+
+# Next.js build output
+.next/
+out/
